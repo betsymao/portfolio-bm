@@ -1,3 +1,6 @@
+// libraries
+import { Outlet} from 'react-router-dom';
+
 // components
 import Header from './Header';
 import Footer from './Footer';
@@ -7,6 +10,7 @@ function Layout() {
     <>
       <div>
         <Header />
+        <Outlet />
         <Footer />
       </div>
     </>
