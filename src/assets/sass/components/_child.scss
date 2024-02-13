@@ -1,0 +1,21 @@
+.child {
+    .declaration {
+        color: #BF67DC;
+    }
+    
+    .variable {
+        color: #438FF8;
+    }
+    
+    .value {
+        color: #FE803D;
+    }
+    
+    .comment {
+        color: #6F6F63;
+    }
+
+    .projects__collection .project:not(:first-child) {
+        margin-top: 2rem;
+    }
+}
