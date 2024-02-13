@@ -8,10 +8,16 @@ import Footer from './Footer';
 function Layout() {
   return (
     <>
-      <div>
+      <div className="parent">
+
         <Header />
-        <Outlet />
-        <Footer />
+
+        <div className="children">
+          <Outlet />
+        </div>
+        
+        <Footer date={new Date().getFullYear()} />
+
       </div>
     </>
   );
