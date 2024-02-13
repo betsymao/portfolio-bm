@@ -14,7 +14,7 @@ The design of this project was inspired by Google Chrome's Developer Tools Conso
 
 ## Deployment
 
-[Live Demo](https://betsymao.onrender.com/)
+View the Live Demo at *https://betsymao.onrender.com/*
 
 ## Built With
 
