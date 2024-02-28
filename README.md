@@ -1,6 +1,6 @@
 # Personal Portfolio
 
-A static page to showcase my web development projects.
+A static page to showcase my projects.
 
 ## Features
 
